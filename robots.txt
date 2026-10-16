@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kylemcinnes.github.io/sweetman/sitemap.xml
